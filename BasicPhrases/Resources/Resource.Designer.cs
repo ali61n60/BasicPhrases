@@ -60,32 +60,32 @@ namespace BasicPhrases
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060001
-			public const int button1 = 2131099649;
-			
-			// aapt resource value: 0x7f060002
-			public const int button2 = 2131099650;
+			// aapt resource value: 0x7f060006
+			public const int doyouspeakenglish = 2131099654;
 			
 			// aapt resource value: 0x7f060003
-			public const int button3 = 2131099651;
-			
-			// aapt resource value: 0x7f060004
-			public const int button4 = 2131099652;
-			
-			// aapt resource value: 0x7f060005
-			public const int button5 = 2131099653;
-			
-			// aapt resource value: 0x7f060006
-			public const int button6 = 2131099654;
-			
-			// aapt resource value: 0x7f060007
-			public const int button7 = 2131099655;
-			
-			// aapt resource value: 0x7f060008
-			public const int button8 = 2131099656;
+			public const int goodevening = 2131099651;
 			
 			// aapt resource value: 0x7f060000
 			public const int gridLayout1 = 2131099648;
+			
+			// aapt resource value: 0x7f060001
+			public const int hello = 2131099649;
+			
+			// aapt resource value: 0x7f060002
+			public const int howareyou = 2131099650;
+			
+			// aapt resource value: 0x7f060008
+			public const int ilivein = 2131099656;
+			
+			// aapt resource value: 0x7f060005
+			public const int mynameis = 2131099653;
+			
+			// aapt resource value: 0x7f060004
+			public const int please = 2131099652;
+			
+			// aapt resource value: 0x7f060007
+			public const int welcome = 2131099655;
 			
 			static Id()
 			{
